@@ -1,0 +1,198 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Rafx2PluginBase.cpp
+  Rafx2Plugin.cpp
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2787): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2838): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2841): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2994): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(3352): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4859): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4862): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4863): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(8674): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(8678): warning C4018: '<=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(128): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(233): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(242): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(415): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(212): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(390): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(392): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(395): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(396): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  RackAFXDLL.cpp
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2787): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2838): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2841): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2994): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(3352): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4859): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4862): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4863): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(8674): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(8678): warning C4018: '<=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(128): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(233): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(242): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(415): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(212): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(390): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(392): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(395): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(396): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  fxobjects.cpp
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2787): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2838): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2841): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2994): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(3352): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4859): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4862): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4863): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(8674): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(8678): warning C4018: '<=': signed/unsigned mismatch
+  pluginparameter.cpp
+  plugingui.cpp
+c:\users\aaron\rackafx projects\pancake\pluginkernel\plugingui.cpp(1328): warning C4996: 'VSTGUI::CCommandMenuItem::kMsgMenuItemValidate': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\coptionmenu.h(208): note: see declaration of 'VSTGUI::CCommandMenuItem::kMsgMenuItemValidate'
+c:\users\aaron\rackafx projects\pancake\pluginkernel\plugingui.cpp(1354): warning C4996: 'VSTGUI::CCommandMenuItem::kMsgMenuItemSelected': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\coptionmenu.h(212): note: see declaration of 'VSTGUI::CCommandMenuItem::kMsgMenuItemSelected'
+c:\users\aaron\rackafx projects\pancake\pluginkernel\plugingui.cpp(1532): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  plugincore.cpp
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2787): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2838): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2841): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(2994): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(3352): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4859): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4862): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(4863): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(8674): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\fxobjects.h(8678): warning C4018: '<=': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(128): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(233): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(242): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\superlfo.h(415): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(212): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(390): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(392): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(395): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\pluginobjects\autopan.h(396): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  pluginbase.cpp
+  customviews.cpp
+c:\users\aaron\rackafx projects\pancake\customcontrols\customviews.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\rackafx projects\pancake\customcontrols\customviews.cpp(475): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  customcontrols.cpp
+c:\users\aaron\rackafx projects\pancake\customcontrols\customcontrols.cpp(440): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\cslider.h(50): note: see declaration of 'VSTGUI::CSlider::getMode'
+c:\users\aaron\rackafx projects\pancake\customcontrols\customcontrols.cpp(441): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\cslider.h(50): note: see declaration of 'VSTGUI::CSlider::getMode'
+c:\users\aaron\rackafx projects\pancake\customcontrols\customcontrols.cpp(447): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\cslider.h(50): note: see declaration of 'VSTGUI::CSlider::getMode'
+c:\users\aaron\rackafx projects\pancake\customcontrols\customcontrols.cpp(585): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\cslider.h(50): note: see declaration of 'VSTGUI::CSlider::getMode'
+c:\users\aaron\rackafx projects\pancake\customcontrols\customcontrols.cpp(586): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\cslider.h(50): note: see declaration of 'VSTGUI::CSlider::getMode'
+c:\users\aaron\rackafx projects\pancake\customcontrols\customcontrols.cpp(592): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\cslider.h(50): note: see declaration of 'VSTGUI::CSlider::getMode'
+  vstgui_win32.cpp
+c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\ccontrol.cpp(97): warning C4996: 'VSTGUI::CControl::kMessageBeginEdit': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\ccontrol.h(114): note: see declaration of 'VSTGUI::CControl::kMessageBeginEdit'
+c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\ccontrol.cpp(120): warning C4996: 'VSTGUI::CControl::kMessageEndEdit': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\ccontrol.h(115): note: see declaration of 'VSTGUI::CControl::kMessageEndEdit'
+c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\ccontrol.cpp(139): warning C4996: 'VSTGUI::CControl::kMessageValueChanged': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\ccontrol.h(113): note: see declaration of 'VSTGUI::CControl::kMessageValueChanged'
+c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\ccontrol.cpp(167): warning C4996: 'VSTGUI::CControl::kMessageValueChanged': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\ccontrol.h(113): note: see declaration of 'VSTGUI::CControl::kMessageValueChanged'
+c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\coptionmenu.cpp(281): warning C4996: 'VSTGUI::CCommandMenuItem::kMsgMenuItemSelected': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\coptionmenu.h(212): note: see declaration of 'VSTGUI::CCommandMenuItem::kMsgMenuItemSelected'
+c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\coptionmenu.cpp(296): warning C4996: 'VSTGUI::CCommandMenuItem::kMsgMenuItemValidate': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\coptionmenu.h(208): note: see declaration of 'VSTGUI::CCommandMenuItem::kMsgMenuItemValidate'
+c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\coptionmenu.cpp(446): warning C4996: 'VSTGUI::COptionMenu::kMsgBeforePopup': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\coptionmenu.h(345): note: see declaration of 'VSTGUI::COptionMenu::kMsgBeforePopup'
+c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\ctextlabel.cpp(96): warning C4996: 'VSTGUI::CTextLabel::kMsgTruncatedTextChanged': was declared deprecated
+  c:\users\aaron\rackafx projects\vstgui4\vstgui\lib\controls\ctextlabel.h(57): note: see declaration of 'VSTGUI::CTextLabel::kMsgTruncatedTextChanged'
+  vstgui_uidescription_win32.cpp
+c:\users\aaron\rackafx projects\vstgui4\vstgui\uidescription\uiviewcreator.cpp(2411): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\rackafx projects\vstgui4\vstgui\uidescription\editing\uigradientscontroller.cpp(416): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library C:\Users\Aaron\RackAFX Projects\PanCake\RAFX2 WinBuild\\build\PanCake.lib and object C:\Users\Aaron\RackAFX Projects\PanCake\RAFX2 WinBuild\\build\PanCake.exp
+  PanCake.vcxproj -> C:\Users\Aaron\AppData\Roaming\RackAFX 7.0\PlugIns\PanCake.rafx2
